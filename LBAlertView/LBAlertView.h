@@ -7,7 +7,7 @@
 //
 
 #import <UIKit/UIKit.h>
-#import <Masonry/Masonry.h>
+
 @class LBAlertView;
 
 typedef void(^LBAlertBlock)(LBAlertView *alertView);

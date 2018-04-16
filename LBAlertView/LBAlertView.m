@@ -7,7 +7,7 @@
 //
 
 #import "LBAlertView.h"
-
+#import <Masonry/Masonry.h>
 #define kScale 0.6f
 
 @interface LBAlertView()
